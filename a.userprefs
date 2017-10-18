@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2DAC4D2E-F52A-452A-A218-BF9B82BEEC6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="a/DashBoard.cs">
+    <Files>
+      <File FileName="a/MainActivity.cs" Line="81" Column="26" />
+      <File FileName="a/SignUp.cs" Line="77" Column="36" />
+      <File FileName="a/DashBoard.cs" Line="22" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="a" expanded="True">
+            <Node name="a" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="DashBoard.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.a AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
